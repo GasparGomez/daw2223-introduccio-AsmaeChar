@@ -14,4 +14,4 @@
 |9:00/10:00  | Projecte<br> (Ermengol) |
 |10:00/11:00  | Projecte<br> (Alvaro) |
 |11:30/12:30  | Interficies<br> (Ermengol) |
-|11:30/12:30  | E.Servidor<br> (Pol) |
+|12:30/13:30  | E.Servidor<br> (Pol) |

@@ -1,12 +1,10 @@
 # Institut Pedralbes
-## Els professors de l'[Institut Pedralbes](https://www.institutpedralbes.cat/) son:
+## Els meus professors a l'[Institut Pedralbes](https://www.institutpedralbes.cat/) son:
 
 1. Ermengol
 2. Pol
 3. Alvaro
-4. Toni
-5. Sergi
-6. Susana
+4. Susana
 
 | Horari | Dilluns | Dimarts | Dimecres | Dijous | Divendres
 | --------- | -------- | -------- | -------- | -------- | -------- |

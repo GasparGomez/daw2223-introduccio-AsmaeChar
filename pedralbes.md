@@ -15,3 +15,8 @@
 |10:00/11:00  | Projecte<br> (Alvaro) |
 |11:30/12:30  | Interficies<br> (Ermengol) |
 |12:30/13:30  | E.Servidor<br> (Pol) |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |

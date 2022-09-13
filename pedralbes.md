@@ -6,6 +6,7 @@
 3. Alvaro
 4. Toni
 5. Sergi
+6. Susana
 
 |Horario  |  Martes|
 |--|--|--|--|

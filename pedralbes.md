@@ -10,11 +10,11 @@
 
 | Horario  |  Martes |
 | --------- | -------- |
-|8:00-9:00  | Desplegament (Ermengol) |
-|9:00-10:00  | Projecte (Ermengol) |
-|10:00-11:00  | Projecte (Alvaro) |
-|11:30-12:30  | Interficies (Ermengol) |
-|12:30-13:30  | E.Servidor (Pol) |
+|8:00/9:00  | Desplegament (Ermengol) |
+|9:00/10:00  | Projecte (Ermengol) |
+|10:00/11:00  | Projecte (Alvaro) |
+|11:30/12:30  | Interficies (Ermengol) |
+|12:30/13:30  | E.Servidor (Pol) |
 
 | First Header  | Second Header |
 | ------------- | ------------- |
